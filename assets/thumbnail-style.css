@@ -22,6 +22,6 @@
   left: 0;
   right: 0;
   padding: 10px 12px;
-  background: rgba(235, 220, 255, 0.15);
-  border-top: 0.5px solid rgba(235, 225, 245, 0.3);
+  background: rgba(255, 255, 255, 0.3);
+  border-top: 0.5px solid rgba(255, 255, 255, 0.4);
 }
