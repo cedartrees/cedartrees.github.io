@@ -13,7 +13,7 @@ title: "Home"
 ### Technical Portfolio
 <div class="card-grid">
     <div class="card">
-        <a href="cedartrees.github.io/repository/preview-pages/144p3_preview.html">
+        <a href="cedartrees.github.io/repository/144p3_preview.html">
             <img src="assets/thumbnails/144p3_thumb.jpg">
             <div class="overlay">
                 <p class="title" style="font-size: 12px;"><b>Economic Forecasting Final Project</b></p>
