@@ -11,4 +11,4 @@ minima:
   skin: classic
   nav_pages:
     - 01_portfolio.md
-    - 02_resume.html
+    - 02_resume.md
