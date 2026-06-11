@@ -1,5 +1,6 @@
 ---
 layout: home
+title: "Home"
 ---
 <head>
     <link rel="stylesheet" href="thumbnail-style.css">
