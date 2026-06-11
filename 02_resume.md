@@ -4,4 +4,6 @@ title: "Cedar's Resume"
 permalink: /resume
 ---
 
-<iframe src="assets/files/Cedar-Powers-Resume.pdf#toolbar=0" width="100%"" height="1056px" type="application/pdf"></iframe>
+<object data="assets/files/Cedar-Powers-Resume.pdf" type="application/pdf" width="100%" height="1056px">
+    <a href="assets/files/Cedar-Powers-Resume.pdf">Download</a>
+</object>
