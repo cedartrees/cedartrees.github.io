@@ -9,5 +9,7 @@ permalink: /portfolio
     <a href="assets/Cedar-Powers-144-Project-3.pdf">Download</a>
 </object>
 
+---
+
 #### Selenium Web Automation for Opening POS Drawers
 <script src="https://gist.github.com/cedartrees/cc7b23ff670fb331ba8cddb21e576c46.js"></script>
