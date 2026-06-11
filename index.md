@@ -28,5 +28,6 @@ Hello! Welcome to my little website.
         </a>
     </div>
 </div>
+<br>
 
 ## Some of my Art!
