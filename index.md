@@ -17,7 +17,7 @@ title: "Home"
             <img src="assets/144p3_thumb.jpg">
             <div class="overlay">
                 <p class="title" style="font-size: 12px;"><b>Economic Forecasting Final Project</b></p>
-                <p class="desc" style="font-size: 10px;">R Forecast Analysis NYC Daily K-12 Attendance Data</p></div>
+                <p class="desc" style="font-size: 10px;">R Forecast Analysis NYC Daily K-12 Attendance Data</p>
             </div>
         </a>
     </div>
@@ -26,7 +26,7 @@ title: "Home"
             <img src="assets/144p3_thumb.jpg">
             <div class="overlay">
                 <p class="title" style="font-size: 12px;"><b>Data Science for Economists Final Project</b></p>
-                <p class="desc" style="font-size: 10px;">R Analysis of US School District Funding Panel Data</p></div>
+                <p class="desc" style="font-size: 10px;">R Analysis of US School District Funding Panel Data</p>
             </div>
         </a>
     </div>
