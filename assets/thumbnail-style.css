@@ -7,7 +7,7 @@
 .card {
   position: relative;
   display: block;
-  border: 2px solid rgba(160, 157, 167, 0.7);
+  border: 2px solid rgba(180, 176, 187, 0.75);
   border-radius: 8px;
   overflow: hidden;
 }
@@ -27,5 +27,5 @@
   left: 0;
   right: 0;
   padding: 10px;
-  background: rgba(160, 157, 167, 0.7);
+  background: rgba(180, 176, 187, 0.75);
 }

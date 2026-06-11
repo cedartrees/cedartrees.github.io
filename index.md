@@ -23,7 +23,7 @@ Hello! Welcome to my little website.
         <a href="04_104fp_preview.html">
             <img src="assets/thumbnails/104fp_thumb.jpg">
             <div class="overlay">
-                <p class="title" style="font-size: 11px;"><b>UCLA Data Science for Economists Final Project</b><br>R data analysis of US school district finance panel dataset.</p>
+                <p class="title" style="font-size: 11px;"><b>UCLA Data Science for Economists Final Project</b><br>R data analysis of US school district finance panel data.</p>
             </div>
         </a>
     </div>
