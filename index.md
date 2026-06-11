@@ -1,38 +1,33 @@
 ---
 layout: home
 ---
+<head>
+    <link rel="stylesheet" href="thumbnail-style.css">
+</head>
+
 ### Hello! Welcome to my little website.
 
 ### About Me
 
 ### Technical Portfolio
-
-<div class="pdf-grid">
-    <div class="pdf-card">
-        <h4>Economic Forecasting Final Project</h4>
-        <!-- no pdf toolbar -->
-        <iframe src="embeds/Cedar-Powers-144-Project-3.pdf#toolbar=0" type="application/pdf"></iframe>
-        <a href="/preview-pages/144p3_preview.html">View Full Size</a>
+<div class="card-grid">
+    <div class="card">
+        <a href="144p3_preview.html">
+            <img src="144p3_thumb.jpeg">
+            <div class="overlay">
+                <p class="title">Economic Forecasting Final Project</p>
+                <p class="desc">R Forecast Analysis NYC Daily K-12 Attendance Data</p></div>
+            </div>
+        </a>
     </div>
-    <div class="pdf-card">
-        <h4>Data Science for Economics Final Analysis Project</h4>
-        <iframe src="embeds/Cedar-Powers-144-Project-3.pdf#toolbar=0" type="application/pdf"></iframe>
-        <a href="">View Full Size</a>
-    </div>
-    <div class="pdf-card">
-        <h4>Economic forecasting Project 2</h4>
-        <iframe src="embeds/Cedar-Powers-144-Project-3.pdf#toolbar=0" type="application/pdf"></iframe>
-        <a href="">View Full Size</a>
-    </div>
-    <div class="pdf-card">
-        <h4>Economic forecasting Project 1</h4>
-        <iframe src="embeds/Cedar-Powers-144-Project-3.pdf#toolbar=0" type="application/pdf"></iframe>
-        <a href="">View Full Size</a>
-    </div>
-    <div class="pdf-card">
-        <h4>Selenium POS Drawer Opening Web Automation [santized]</h4>
-        <iframe src="embeds/Cedar-Powers-144-Project-3.pdf#toolbar=0" type="application/pdf"></iframe>
-        <a href="/preview-pages/drawer_preview.html">View Full Size</a>
+    <div class="card">
+        <a href="preview-page.html">
+            <img src="144p3_thumb.jpeg">
+            <div class="overlay">
+                <p class="title">Data Science for Economists Final Project</p>
+                <p class="desc">R Analysis of US School District Funding Panel Data</p></div>
+            </div>
+        </a>
     </div>
 </div>
 
