@@ -20,8 +20,16 @@ Hello! Welcome to my little website.
         </a>
     </div>
     <div class="card">
-        <a href="04_drawer_preview.html">
-            <img src="assets/thumbnails/144p3_thumb.jpg">
+        <a href="04_104fp_preview.html">
+            <img src="assets/thumbnails/104fp_thumb.jpg">
+            <div class="overlay">
+                <p class="title" style="font-size: 11px;"><b>UCLA Data Science for Economists Final Project</b><br>R data analysis of US school district finance panel dataset.</p>
+            </div>
+        </a>
+    </div>
+    <div class="card">
+        <a href="05_drawer_preview.html">
+            <img src="assets/thumbnails/drawer_thumb.jpg">
             <div class="overlay">
                 <p class="title" style="font-size: 11px;"><b>POS Drawer Automation</b><br>Selenium web automation of POS drawer opening process for past employer.</p>
             </div>
