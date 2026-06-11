@@ -12,19 +12,18 @@ Hello! Welcome to my little website.
 ## Technical & Academic Portfolio
 <div class="card-grid">
     <div class="card">
-        <a href="cedartrees.github.io/repository/144p3_preview.html">
+        <a href=".144p3_preview.html">
             <img src="assets/144p3_thumb.jpg">
             <div class="overlay">
-                <p class="title" style="font-size: 10px;"><b>Economic Forecasting Final Project</b><br>R Forecast Analysis NYC Daily K-12 Attendance Data</p>
+                <p class="title" style="font-size: 11px;"><b>Economic Forecasting Final Project</b><br>R Forecast Analysis NYC Daily K-12 Attendance Data</p>
             </div>
         </a>
     </div>
     <div class="card">
-        <a href="preview-pages/preview-page.html">
+        <a href=".144p3_preview.html">
             <img src="assets/144p3_thumb.jpg">
             <div class="overlay">
-                <p class="title" style="font-size: 12px; margin-bottom: 0.3;"><b>Data Science for Economists Final Project</b></p>
-                <p class="desc" style="font-size: 10px;">R Analysis of US School District Funding Panel Data</p>
+                <p class="title" style="font-size: 11px;"><b>Economic Forecasting Final Project</b><br>R Forecast Analysis NYC Daily K-12 Attendance Data</p>
             </div>
         </a>
     </div>

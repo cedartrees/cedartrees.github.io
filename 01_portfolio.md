@@ -3,13 +3,7 @@ layout: page
 title: "Scrollable Portfolio"
 permalink: /portfolio
 ---
-
-## A Few of My Projects
-
-
 #### Economic Forecasting Analysis of NYC Daily Attendance Data
-
-<iframe src="assets/Cedar-Powers-144-Project-3.pdf#toolbar=0" width=100% height=1056px type="application/pdf"></iframe>
 
 <object data="assets/Cedar-Powers-144-Project-3.pdf" type="application/pdf" width="100%" height="1056px">
     <a href="assets/Cedar-Powers-144-Project-3.pdf">Download</a>
