@@ -20,7 +20,7 @@ Hello! Welcome to my little website.
         </a>
     </div>
     <div class="card">
-        <a href="04_drawer_preview.html.html">
+        <a href="04_drawer_preview.html">
             <img src="assets/thumbnails/144p3_thumb.jpg">
             <div class="overlay">
                 <p class="title" style="font-size: 11px;"><b>POS Drawer Automation</b><br>Selenium web automation of POS drawer opening process for past employer.</p>
