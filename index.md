@@ -39,7 +39,7 @@ Hello! Welcome to my little (work in progress!) website.
         <a href="06_schedule_preview.html">
             <img src="assets/thumbnails/schedule_thumb.jpg">
             <div class="overlay">
-                <p class="title" style="font-size: 11px;"><b>OpenPyXL/lxml Schedule Document Normalizing Tool</b><br>Python automation that normalizes schedule documents with scraped user data.</p>
+                <p class="title" style="font-size: 11px;"><b>OpenPyXL/lxml Schedule Normalizing Tool</b><br>Python automation that normalizes schedule documents with scraped user data.</p>
             </div>
         </a>
     </div>
