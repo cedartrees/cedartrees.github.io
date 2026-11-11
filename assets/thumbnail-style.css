@@ -30,6 +30,6 @@
   background: rgba(180, 176, 187, 0.75);
 }
 
-.overlay p {
-  margin: 0; 
+.overlay .title {
+  margin: 0;
 }
