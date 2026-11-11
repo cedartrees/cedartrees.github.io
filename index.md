@@ -7,7 +7,7 @@ exclude: true
 </head>
 
 ## About Me
-Hello! Welcome to my little website.
+Hello! Welcome to my little (work in progress!) website.
 
 ## Technical & Academic Portfolio
 <div class="card-grid">
