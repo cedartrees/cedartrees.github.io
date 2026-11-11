@@ -31,7 +31,7 @@ Hello! Welcome to my little (work in progress!) website.
         <a href="05_drawer_preview.html">
             <img src="assets/thumbnails/drawer_thumb.jpg">
             <div class="overlay">
-                <p class="title" style="font-size: 11px;"><b>Selinium POS User Enabling/Schedule Normalizing Automations</b><br>Python web automation of POS drawer opening and document normalizing process for past employer.</p>
+                <p class="title" style="font-size: 11px;"><b>Selinium POS User Enabling Automation</b><br>Python web automation of POS drawer opening and document normalizing process for past employer.</p>
             </div>
         </a>
     </div>
