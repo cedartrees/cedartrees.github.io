@@ -23,6 +23,6 @@ R data analysis of US school district finance panel data.
 Python web automation of large scale POS drawer opening process for past employer.
 <script src="https://gist.github.com/cedartrees/cc7b23ff670fb331ba8cddb21e576c46.js"></script>
 
-### OpenPyXL/lxml Schedule Document Normalizing Tool
-Python automation that normalizes schedule documents with scraped user data.
+### OpenPyXL/lxml Schedule Normalizing Tool
+Python automation that corrects/standardizes excel schedule documents using scraped user data.
 <script src="https://gist.github.com/cedartrees/9bc2748f39b45572e0f7b58ea34d960d.js"></script>
