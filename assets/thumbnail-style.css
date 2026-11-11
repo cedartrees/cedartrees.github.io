@@ -29,3 +29,7 @@
   padding: 10px;
   background: rgba(180, 176, 187, 0.75);
 }
+
+.overlay p {
+  margin: 0; 
+}
